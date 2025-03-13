@@ -1,1 +1,24 @@
-Welcome to My Page!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Sample Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Page!</h1>
+    <img src="images/bird.jpg" ALIGN="BOTTOM" height="250" width="400">
+    <p>This is a simple example of a webpage.</p>
+
+    <h2>Things I like:</h2>
+    <ul>
+        <a href="about.html">About Us</a>
+        <li>Coding</li>
+        <li>Reading</li>
+        <li>Hiking</li>
+    </ul>
+    <br><b><i>This is a new sentence without a paragraph break, in bold and italics.</i></b></br>
+    <br><b><i>This is a new sentence without a paragraph break, in bold and italics.</i></b></br>
+    <br><b><i>This is a new sentence without a paragraph break, in bold and italics.</i></b></br>
+</body>
+</html>
